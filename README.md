@@ -4,9 +4,9 @@
 
 This is the repository with the final work of our team.
 The team was componed by:
-1) Mattia Castaldo - matricula 1837100 - castaldo.1837100@studenti.uniroma1.it
-2) Marco D'Ercole - matricula 1874366 - dercole.1874366@studenti.uniroma1.it
-3) Mohamed Assem - matricula 2056136 - masabbah97@gmail.com
+1) Mattia Castaldo - ID number: 1837100 - castaldo.1837100@studenti.uniroma1.it
+2) Marco D'Ercole - ID number: 1874366 - dercole.1874366@studenti.uniroma1.it
+3) Mohamed Assem - ID number: 2056136 - masabbah97@gmail.com
 
 ## Int the repository there are the following files:
 
