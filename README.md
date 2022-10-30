@@ -11,11 +11,12 @@ The team was componed by:
 ## Int the repository there are the following files:
 
 1. __`Command_Line.sh`__: 
-            > In this file there is the answer to the command line question. We used  csvkit (csvkit is a suite of command-line tools for converting to and working with 
-       CSV files) and it's necessary to download it. We ran the file bash in SageMaker notebook. The code can be run it in the folder or in another folder downloading the file.
+            > In this file there is the answer to the command line question. We used the csv kit and it's necessary to download it. We used the file bush sh in SageMaker. The code can be run it in the folder or in another folder downloading the file.
 2. __`Notebook.jpynb`__: 
-            > In this file there is our final work with all the answers to the questions (with the exception of the command line).
+            > In this file there is our final work with all the answers to the questions (with the exception of the command line and algorithmic question number 2).
 3. __`README.md`__: 
             > this file that you are reading.
 4. __`functions.py`__: 
             > In this file there are all the codes collected in functions, that we used to arrive to the answer written in the Notebook.jpynb file.
+5. __`AQ2.jpynb`__: 
+            > In this file there is the answer to the algorithmic question number 2. ATTENTION: the answer to the algorithmic question number 1 it is in the Notebook.jpynb file.
