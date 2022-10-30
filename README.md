@@ -17,6 +17,6 @@ The team was componed by:
 3. __`README.md`__: 
             > this file that you are reading.
 4. __`functions.py`__: 
-            > In this file there are all the codes collected in functions, that we used to arrive to the answer written in the Notebook.jpynb file.
+            > In this file there are all the codes collected in functions, that we used to arrive to the answer at the question 1 to 8 written in the Notebook.jpynb file.
 5. __`AQ2.jpynb`__: 
             > In this file there is the answer to the algorithmic question number 2. ATTENTION: the answer to the algorithmic question number 1 it is in the Notebook.jpynb file.
