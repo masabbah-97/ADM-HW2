@@ -11,10 +11,10 @@ The team was componed by:
 ## Int the repository there are the following files:
 
 1. __`Command_Line.sh`__: 
-            > In this file there is the answer to the command line question
+            > In this file there is the answer to the command line question. We used the csv kit and it's necessary to download it. We used the file bush sh in SageMaker. The code can be run it in the folder or in another folder downloading the file.
 2. __`Notebook.jpynb`__: 
             > In this file there is our final work with all the answers to the questions (with the exception of the command line).
 3. __`README.md`__: 
-            > this file
+            > this file that you are reading.
 4. __`functions.py`__: 
-            > In this file there are all the codes that we used to arrive to the answer written in the Notebook.jpynb file.
+            > In this file there are all the codes collected in functions, that we used to arrive to the answer written in the Notebook.jpynb file.
