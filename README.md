@@ -10,13 +10,13 @@ The team was componed by:
 
 ## Int the repository there are the following files:
 
-1. __`Command_Line.sh`__: 
-            > In this file there is the answer to the command line question. We used the csv kit and it's necessary to download it. We used the file bush sh in SageMaker. The code can be run it in any folder or in another folder downloading the datasets from kaggle previously.
-2. __`Notebook.jpynb`__: 
-            > In this file there is our final work with all the answers to the questions (with the exception of the command line and algorithmic question number 2).
-3. __`README.md`__: 
-            > this file that you are reading.
-4. __`functions.py`__: 
-            > In this file there are all the codes collected in functions, that we used to arrive to the answer at the question 1 to 8 written in the Notebook.jpynb file.
-5. __`AQ2.jpynb`__: 
+1. __`AQ2.jpynb`__: 
             > In this file there is the answer to the algorithmic question number 2. ATTENTION: the answer to the algorithmic question number 1 it is in the Notebook.jpynb file.
+2. __`Command_Line.sh`__: 
+            > In this file there is the answer to the command line question. We used the csv kit and it's necessary to download it. We used the file bush sh in SageMaker. The code can be run it in any folder or in another folder downloading the datasets from kaggle previously.
+3. __`Notebook.jpynb`__: 
+            > In this file there is our final work with all the answers to the questions (with the exception of the command line and algorithmic question number 2).
+4. __`README.md`__: 
+            > this file that you are reading.
+5. __`functions.py`__: 
+            > In this file there are all the codes collected in functions, that we used to arrive to the answer at the question 1 to 8 written in the Notebook.jpynb file.
